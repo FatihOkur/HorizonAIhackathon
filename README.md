@@ -28,7 +28,7 @@ The application relies on the following Python libraries:
 
 2. **Open the Application File:**
 
-   Open the `stock_investment_adviser.py` file with your favorite code editor (such as VS Code, PyCharm, etc.) to review the source code.
+   Open the `stock_investment_advisor.py` file with your favorite code editor (such as VS Code, PyCharm, etc.) to review the source code.
 
 3. **Install the Required Libraries:**
 
@@ -39,6 +39,6 @@ The application relies on the following Python libraries:
 4. **Run the Application:**
 
    ```bash
-   streamlit run stock_investment_adviser.py
+   streamlit run stock_investment_advisor.py
 
 
