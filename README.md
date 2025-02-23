@@ -35,7 +35,7 @@ The application relies on the following Python libraries:
    Open your terminal and run the following command to install all necessary packages:
 
    ```bash
-   pip install streamlit numpy pandas yfinance scikit-learn tensorflow plotly
+   pip install -r requirements.txt (Alternative: pip install streamlit numpy pandas yfinance scikit-learn tensorflow plotly)
 4. **Run the Application:**
 
    ```bash
